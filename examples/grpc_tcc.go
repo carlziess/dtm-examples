@@ -11,7 +11,7 @@ import (
 	dtmgrpc "github.com/dtm-labs/client/dtmgrpc"
 	"github.com/dtm-labs/dtm-examples/busi"
 	"github.com/dtm-labs/dtm-examples/dtmutil"
-	"github.com/lithammer/shortuuid/v3"
+	"github.com/lithammer/shortuuid"
 	emptypb "google.golang.org/protobuf/types/known/emptypb"
 )
 
